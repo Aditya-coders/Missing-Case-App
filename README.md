@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 # Missing-Case-App
-This app helps to find the missing person........
-<br>
-Using Flutter
+This app helps to find the missing person........ Using Flutter
 =======
 # hackathonproject
 
